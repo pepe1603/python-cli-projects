@@ -1,0 +1,11 @@
+# Entornos virtuales
+venv/
+*/venv/
+
+# Archivos Python
+__pycache__/
+*.pyc
+
+# Archivos locales
+notes.json
+
