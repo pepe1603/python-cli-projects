@@ -40,4 +40,9 @@ Y luego se acriva:
 ```bash
 source ~/.bashrc
 
+## 🔥 ¿Qué hace este launcher?
 
+✔ No necesita activar source venv/bin/activate
+✔ Usa directamente el Python del venv
+✔ Cambia automáticamente según el proyecto
+✔ Es limpio y profesional
